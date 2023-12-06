@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/naopeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naopeke" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nao-mukai-205b71207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nao-mukai-205b71207" height="30" width="40" /></a>
 </p>
 
