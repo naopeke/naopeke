@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Blue and White Architect LinkedIn Banner](https://github.com/naopeke/naopeke/assets/143800388/bea82e56-95ae-4e4e-873e-825e5bcc7839)
+
 
 <h3 align="center">✨ A passionate frontend developer from Japan ✨</h3>
 
