@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Nao's GitHub stats](https://github-readme-stats.vercel.app/api?username=naopeke&show_icons=true&theme=radical)
 -->
 ![Blue and White Architect LinkedIn Banner(1)](https://github.com/naopeke/naopeke/assets/143800388/d248966e-7524-404b-8821-cc7e1ebe0ba2)
 
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 
 
 ![Nao's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naopeke&show_icons=true&theme=radical)
-![Nao's GitHub stats](https://github-readme-stats.vercel.app/api?username=naopeke&show_icons=true&theme=radical)
+
 
 
 
