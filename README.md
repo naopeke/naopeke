@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Nao's GitHub stats](https://github-readme-stats.vercel.app/api?username=naopeke&show_icons=true&theme=radical)
 -->
-![Default_programming_coding_angular_3](https://github.com/naopeke/naopeke/assets/143800388/1c1d9be3-55e7-484d-91fc-9936fad86555)
+<!--![Default_programming_coding_angular_3](https://github.com/naopeke/naopeke/assets/143800388/1c1d9be3-55e7-484d-91fc-9936fad86555)-->
+
+![Captura desde 2024-08-06 10-06-35](https://github.com/user-attachments/assets/059a23ab-cd50-4ab4-9190-1fa3af73094d)
 
 
 <h3 align="center">✨ A passionate frontend developer from Japan ✨</h3>
