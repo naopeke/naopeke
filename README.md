@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Captura desde 2024-08-06 10-06-35](https://github.com/user-attachments/assets/059a23ab-cd50-4ab4-9190-1fa3af73094d)
 
 
-<h3 align="center">✨ A passionate frontend developer from Japan ✨</h3>
+<h3 align="center">✨ A passionate QA tester / Frontend developer from Japan ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naopeke&label=Profile%20views&color=0e75b6&style=flat" alt="naopeke" /> </p>
 
@@ -34,6 +34,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+🔎 Testing
+  <br>
+  <img src="https://github.com/microsoft/playwright.dev/blob/main/static/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="50" height="50"/>
+ 
 💻 Front-End
   <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
