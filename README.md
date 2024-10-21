@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <!--![Default_programming_coding_angular_3](https://github.com/naopeke/naopeke/assets/143800388/1c1d9be3-55e7-484d-91fc-9936fad86555)-->
 
-![Leonardo_Phoenix_A_closeup_of_a_futuristic_cyberpunkthemed_lap_1](https://github.com/user-attachments/assets/5de74524-89cc-4781-979e-e3bd29eac5a3)
+![tec](https://github.com/user-attachments/assets/cfb98967-ec73-4e8f-968e-617a16ecb215)
 
 
 
