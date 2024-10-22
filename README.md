@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 <!--![Default_programming_coding_angular_3](https://github.com/naopeke/naopeke/assets/143800388/1c1d9be3-55e7-484d-91fc-9936fad86555)-->
 
-![tec](https://github.com/user-attachments/assets/cfb98967-ec73-4e8f-968e-617a16ecb215)
 
+
+![Leonardo_Phoenix_A_highly_detailed_and_colorful_still_life_ima_1](https://github.com/user-attachments/assets/de1c775c-b067-4dad-8b4e-0e9d27dba040)
 
 
 
