@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 🔎 Testing
   <br>
   <img src="https://github.com/microsoft/playwright.dev/blob/main/static/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>
  
 💻 Front-End
   <br>
