@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://github.com/microsoft/playwright.dev/blob/main/static/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
  
 💻 Front-End
   <br>
@@ -79,7 +80,6 @@ Here are some ideas to get you started:
 
 Other
   <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 
 
