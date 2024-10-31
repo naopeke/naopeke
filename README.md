@@ -83,7 +83,7 @@ Other
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 
 
-![Nao's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naopeke&show_icons=true&theme=radical)
+![Nao's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naopeke&show_icons=true)
 
 
 
