@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">✨ A passionate Frontend engineer / QA tester from Japan ✨</h3>
+<h3 align="center">✨ A passionate QA engineer from Japan ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naopeke&label=Profile%20views&color=0e75b6&style=flat" alt="naopeke" /> </p>
 
