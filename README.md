@@ -41,13 +41,10 @@ Here are some ideas to get you started:
   <br>
   Jira, Azure DevOps, Wave, Axe, TalkBack, VoiceOver, NVDA
  
-💻 Front-End
+💻 Programming languages
   <br>
-HTML, CSS, SCSS, JavaScript, TypeScript
+HTML, CSS, SCSS, JavaScript, TypeScript, Python, SQL
 
-🔙 Back-End 🔙
-  <br>
-SQL
 
 🛢️ Data Base
   <br>
