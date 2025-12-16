@@ -43,7 +43,7 @@ Here are some ideas to get you started:
  
 💻 Programming languages
   <br>
-HTML, CSS, SCSS, JavaScript, TypeScript, Python, SQL
+JavaScript, TypeScript, Python, SQL
 
 
 🛢️ Data Base
