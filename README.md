@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naopeke&label=Profile%20views&color=0e75b6&style=flat" alt="naopeke" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naopeke)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/naopeke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naopeke" height="30" width="40" /></a>
@@ -39,48 +37,29 @@ Here are some ideas to get you started:
 <p align="left">
 🔎 Testing
   <br>
-  <img src="https://github.com/microsoft/playwright.dev/blob/main/static/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  Playwright, Cypress, Appium, Postman
+  <br>
+  Jira, Azure DevOps, Wave, Axe, TalkBack, VoiceOver, NVDA
  
 💻 Front-End
   <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
+HTML, CSS, SCSS, JavaScript, TypeScript
 
 🔙 Back-End 🔙
   <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+SQL
 
 🛢️ Data Base
   <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" title="Postgre"  alt="Postgre" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+MySQL, PostgreSQL, MongoDB
 
 🎨 Design
   <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+Figma
 
 🚀 Deployment
   <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
-
-
-Other
-  <br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+AWS, Vercel
 
 
 ![Nao's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naopeke&show_icons=true)
